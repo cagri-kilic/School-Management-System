@@ -1,4 +1,4 @@
-# 🎓 School Management System - Back-End  
+# 🎓 School Management System - Back End  
 
 This is the **back-end** of a **School Management System** built using **Java Spring Boot**, **MySQL**, and **Hibernate**. The system is designed to manage **students**, **teachers**, **courses**, and **departments**, providing features for adding, updating, and managing various entities within a school.  
 
