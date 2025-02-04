@@ -26,3 +26,6 @@ This is the **back-end** of a **School Management System** built using **Java Sp
 - **Database:** MySQL & Hibernate  
 - **Authentication:** Spring Security & JWT  
 - **ORM:** Hibernate (JPA)  
+
+⚠️ Note: Work in Progress
+This project is still a draft version. The security implementation is incomplete, and clean code principles have not yet been fully applied to the services. Further improvements will be made. 🚀
